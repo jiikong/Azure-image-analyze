@@ -1,0 +1,92 @@
+{
+  "image_url": "https://img.khan.co.kr/news/r/1100xX/2024/01/17/news-p.v1.20240117.bf7271484d6d4ef4857680cad82e997d.webp",
+
+  "caption": {
+    "text": "a person holding a book",
+    "confidence": 0.902696430683136
+  },
+  "tags": [
+    {
+      "text": "human face",
+      "confidence": 0.9953669905662537
+    },
+    {
+      "text": "person",
+      "confidence": 0.984207272529602
+    },
+    {
+      "text": "smile",
+      "confidence": 0.9639491438865662
+    },
+    {
+      "text": "text",
+      "confidence": 0.9636824727058411
+    },
+    {
+      "text": "glasses",
+      "confidence": 0.9406490325927734
+    },
+    {
+      "text": "clothing",
+      "confidence": 0.9170130491256714
+    },
+    {
+      "text": "holding",
+      "confidence": 0.8816248178482056
+    },
+    {
+      "text": "wall",
+      "confidence": 0.8538357615470886
+    },
+    {
+      "text": "indoor",
+      "confidence": 0.6919009685516357
+    },
+    {
+      "text": "blue",
+      "confidence": 0.6681851148605347
+    }
+  ],
+  "objects": [
+    {
+      "name": "Glasses",
+      "confidence": 0.588,
+      "bounding_box": {
+        "x": 421,
+        "y": 187,
+        "width": 233,
+        "height": 70
+      }
+    },
+    {
+      "name": "cat",
+      "confidence": 0.522,
+      "bounding_box": {
+        "x": 902,
+        "y": 297,
+        "width": 117,
+        "height": 108
+      }
+    },
+    {
+      "name": "person",
+      "confidence": 0.939,
+      "bounding_box": {
+        "x": 194,
+        "y": 25,
+        "width": 721,
+        "height": 674
+      }
+    },
+      {
+        "name": "animal",
+        "confidence": 0.872,
+        "bounding_box": {
+          "x": 912,
+          "y": 286,
+          "width": 127,
+          "height": 98
+        }
+      }
+  ]
+}
