@@ -1,4 +1,4 @@
-# Azure Image Analysis Demo
+# Azure 기반의 이미지 분석 기술 이해하기
 
 Azure Computer Vision 서비스를 활용한 이미지 분석 및 검색 데모 프로젝트입니다.  
 이미지로부터 캡션, 태그, 객체 정보를 추출하고, 분석 결과를 JSON 형태로 저장하여  
