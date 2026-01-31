@@ -24,3 +24,7 @@ Azure Computer Vision 서비스를 활용한 이미지 분석 및 검색 데모 
 - **Python**
 - **Azure Computer Vision**
 - **Azure AI Vision SDK**
+
+---
+**참고 문헌**
+https://learn.microsoft.com/ko-kr/azure/ai-services/computer-vision/?WT.mc_id=studentamb_479499
